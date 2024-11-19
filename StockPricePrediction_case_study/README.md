@@ -18,8 +18,9 @@ The primary objective of this project is to build a regression model that accura
 - **Machine Learning**: Scikit-learn for implementing regression models to predict Tesla's weekly stock returns.
 - **Time Series Analysis:** Techniques to handle historical stock data and ensure temporal integrity in model training and testing.
 ## Key Highlights
-- Feature Engineering: Transformation and scaling of financial and economic indicators for optimal model performance.
-- Correlation Analysis: Assessment of relationships between Tesla's returns and other independent variables.
-- Model Validation: Rigorous testing of regression models using cross-validation techniques.
-- Insights and Recommendations: Summary of key findings and their implications for investors and analysts.
+- **Feature Engineering:** Transformation and scaling of financial and economic indicators for optimal model performance.
+- **Correlation Analysis:** Assessment of relationships between Tesla's returns and other independent variables.
+- **Model Validation:** Rigorous testing of regression models using cross-validation techniques.
+
+
 This repository demonstrates a methodical approach to leveraging machine learning for stock price prediction, with a focus on Tesla, while incorporating real-world financial data to enhance model accuracy and relevance.
