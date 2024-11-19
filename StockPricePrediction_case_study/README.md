@@ -1,5 +1,5 @@
 # Stock Price Prediction
-## Title: Tesla Stock Price Prediction
+
 ### Overview:
 This project aims to predict the stock price of an asset to be specific the weekly return of Tesla stock using a supervised regression framework. By incorporating both Tesla's historical data and the performance of potentially correlated assets, this case study explores how external factors influence Tesla's stock price. This comprehensive approach leverages financial and economic data to gain insights into the dynamics of Tesla's market performance.
 
