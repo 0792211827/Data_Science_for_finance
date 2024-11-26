@@ -33,5 +33,12 @@ The project is built using the following tools:
   - `Pandas`: Data manipulation  
   - `Matplotlib` and `Seaborn`: Data visualization  
   - `yfinance`: Fetching stock data  
+  - `QuantStats`: Advanced portfolio and performance analysis  
+  - `PyPortfolioOpt`: Portfolio optimization and efficient frontier calculations  
+
+
+
+
+  
 
 
